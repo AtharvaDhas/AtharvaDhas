@@ -80,16 +80,6 @@
 
 ---
 
-## 🎯 2026 Goals
-
-- [ ] Solve **800 LeetCode problems**
-- [ ] Master **System Design** fundamentals
-- [ ] Build and ship a **SaaS side project**
-- [ ] Get comfortable with **Spring Boot** and backend architecture
-- [ ] Contribute to **open source**
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AtharvaDhas&color=blue&style=flat-square" alt="Profile views" />
 </p>
