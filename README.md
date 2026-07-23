@@ -22,7 +22,7 @@
 
 - 🎓 Computer Engineering graduate (2025) from Pune, India
 - 💼 Incoming **Software Developer @ LTIMindtree**
-- 🔭 Currently building my DSA foundation — targeting **800 LeetCode problems by end of 2026**
+- 🔭 Currently building my DSA foundation — targeting 
 - 🌱 Actively levelling up in **Java**, **React**, and **System Design**
 - 🛡️ Interested in **Application Security** and Vulnerability Assessment
 - ⚡ Philosophy: *Learn a skill → Deploy it → Earn from it*
