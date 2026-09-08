@@ -52,13 +52,21 @@
 |---|---|---|
 
 | 🏊 **Swimming Academy Management System** | Full-stack academy platform with role-based dashboards, real-time batch capacity handling, and JWT-secured auth | ASP.NET Core, Angular, EF Core, SQL Server |
+
 | 💝 **Charity Connect** | Charity management system with RSA/BCrypt encryption, Google reCAPTCHA, and reusable Angular components | ASP.NET Core, Angular, EF Core, SQL Server |
+
 | 🍔 **Food Ordering App** | Full-stack food ordering platform with cart, auth, and order management | React, Node.js, Express, SQL |
+
 | 📰 **Khabr** | News aggregator that fetches and categorises articles from multiple sources | React, Node.js, News API |
+
 | 💬 **Slack Messaging Clone** | Real-time messaging app with channels, DMs, and user auth | React, Node.js, WebSockets |
+
 | 🎬 **Netflix Clone** | Frontend replica of Netflix with dynamic content rendering | React, CSS |
+
 | 🎭 **Video Sentiment Analysis** | Facial emotion detection using CNN, NLP, and Haar Cascades | Python, OpenCV, TensorFlow |
+
 | 🌤️ **Weather Dashboard** | Live weather app with location search and 5-day forecast | React, OpenWeather API |
+
  
 ---
 
