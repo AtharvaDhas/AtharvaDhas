@@ -31,16 +31,19 @@
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-**Languages:** C# · Java · TypeScript · JavaScript · SQL
-**Backend:** ASP.NET Core · Web API · Entity Framework Core · LINQ · REST APIs
-**Frontend:** Angular · HTML5 · CSS3 · Bootstrap
-**Database:** Microsoft SQL Server
-**Security:** JWT Auth · Role-Based Access · RSA / BCrypt
-**Tools:** Visual Studio · VS Code · Git & GitHub · Postman · Swagger · Agile/Scrum
-
----
+- **Languages:** C# · Java · TypeScript · JavaScript · SQL
+4
+- **Backend:** ASP.NET Core · Web API · Entity Framework Core · LINQ · REST APIs
+5
+- **Frontend:** React · Angular · HTML5 · CSS3 · Bootstrap
+6
+- **Database:** Microsoft SQL Server
+7
+- **Security:** JWT Auth · Role-Based Access · RSA / BCrypt
+8
+- **Tools:** Visual Studio · VS Code · Git & GitHub · Postman · Swagger · Agile/Scrum
 
 ## 🚀 Featured Projects
 
