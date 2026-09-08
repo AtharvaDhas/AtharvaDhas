@@ -21,8 +21,9 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Computer Engineering graduate (2025) from Pune, India
-- 💼 **Software Engineer @LTM**
-- 🔭 Currently building my DSA foundation — targeting 
+- 💼 **Software Engineer @LTM** — **.NET Full Stack Developer**
+- 🧩 I build secure, scalable web apps with **ASP.NET Core, Angular & SQL Server**
+- 🔭 Currently building my DSA foundation — targeting product-based companies
 - 🌱 Actively levelling up in **Java**, **React**, and **System Design**
 - 🛡️ Interested in **Application Security** and Vulnerability Assessment
 - ⚡ Philosophy: *Learn a skill → Deploy it → Earn from it*
@@ -32,38 +33,35 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Backend & Tools**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+**Languages:** C# · Java · TypeScript · JavaScript · SQL
+**Backend:** ASP.NET Core · Web API · Entity Framework Core · LINQ · REST APIs
+**Frontend:** Angular · HTML5 · CSS3 · Bootstrap
+**Database:** Microsoft SQL Server
+**Security:** JWT Auth · Role-Based Access · RSA / BCrypt
+**Tools:** Visual Studio · VS Code · Git & GitHub · Postman · Swagger · Agile/Scrum
 
 ---
 
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
+
 |---|---|---|
+
+| 🏊 **Swimming Academy Management System** | Full-stack academy platform with role-based dashboards, real-time batch capacity handling, and JWT-secured auth | ASP.NET Core, Angular, EF Core, SQL Server |
+| 💝 **Charity Connect** | Charity management system with RSA/BCrypt encryption, Google reCAPTCHA, and reusable Angular components | ASP.NET Core, Angular, EF Core, SQL Server |
 | 🍔 **Food Ordering App** | Full-stack food ordering platform with cart, auth, and order management | React, Node.js, Express, SQL |
 | 📰 **Khabr** | News aggregator that fetches and categorises articles from multiple sources | React, Node.js, News API |
 | 💬 **Slack Messaging Clone** | Real-time messaging app with channels, DMs, and user auth | React, Node.js, WebSockets |
 | 🎬 **Netflix Clone** | Frontend replica of Netflix with dynamic content rendering | React, CSS |
 | 🎭 **Video Sentiment Analysis** | Facial emotion detection using CNN, NLP, and Haar Cascades | Python, OpenCV, TensorFlow |
 | 🌤️ **Weather Dashboard** | Live weather app with location search and 5-day forecast | React, OpenWeather API |
+ 
+---
+
+### 📜 Certifications
+
+- 🏅 **Orchard – .NET Full Stack Development Program** — LTM (2026)
 
 ---
 
