@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/atharva-dhas" target="_blank">
+  <a href="https://www.linkedin.com/in/atharva-dhas-54b1b6246/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your@email.com">
