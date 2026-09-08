@@ -21,7 +21,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Computer Engineering graduate (2025) from Pune, India
-- 💼 Incoming **Software Developer @ LTIMindtree**
+- 💼 **Software Engineer @LTM**
 - 🔭 Currently building my DSA foundation — targeting 
 - 🌱 Actively levelling up in **Java**, **React**, and **System Design**
 - 🛡️ Interested in **Application Security** and Vulnerability Assessment
